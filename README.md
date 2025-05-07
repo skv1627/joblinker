@@ -85,7 +85,8 @@ docker-compose up --build
 
 ## 📸 Screenshots
 
-_coming soon_
+![JobLinker App Screenshot](JoblinkerApp_screenshot.png)
+
 
 ---
 
