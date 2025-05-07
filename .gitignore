@@ -1,0 +1,16 @@
+# Java
+target/
+*.jar
+
+# Node
+node_modules/
+build/
+
+# IDEs
+*.iml
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
